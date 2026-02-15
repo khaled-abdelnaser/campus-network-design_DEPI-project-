@@ -1,5 +1,12 @@
 # Campus Area Network (CAN) – Cisco Packet Tracer Project
 
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue)
+![OSPF](https://img.shields.io/badge/Routing-OSPF-orange)
+![HSRP](https://img.shields.io/badge/Redundancy-HSRP-red)
+![VLAN](https://img.shields.io/badge/Segmentation-VLANs-green)
+![Security](https://img.shields.io/badge/Security-ACL%20%7C%20DAI%20%7C%20DHCP%20Snooping-purple)
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
+
 ## 📌 Overview
 
 This project implements a **secure and scalable Campus Area Network (CAN)** using Cisco Packet Tracer.
